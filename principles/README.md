@@ -1,10 +1,8 @@
 # Principles
 
-This folder contains the enduring and evolving ideas that guide Northlight.
+This directory contains atomic principle documents.
 
-## Structure
+- `core/` — Mature principles.
+- `current/` — Evolving understandings.
 
-- `core/` — Stable principles that have stood the test of repeated application.
-- `current/` — Working understandings that continue to evolve.
-
-As principles mature, they move from `current/` to `core/`.
+Each principle should exist in its own Markdown file.

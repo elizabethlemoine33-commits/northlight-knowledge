@@ -1,11 +1,10 @@
-# Commit 003 — Observation & Evidence Foundation
+# Commit 005 — Current Understandings Complete
 
 ## Added
 
-- observation folder guidance
-- evidence folder guidance
-- reusable templates for observations, evidence, and frameworks
+- Eight atomic current understanding documents.
+- README for current understandings.
 
-## Purpose
+## Next
 
-Prepare the repository for atomic knowledge capture.
+Link these understandings to observations and evidence as the repository grows.

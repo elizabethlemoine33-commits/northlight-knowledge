@@ -1,10 +1,5 @@
-# Commit 005 — Current Understandings Complete
+# Commit 009 — Observation Batch 001
 
-## Added
+Added twelve repository-quality atomic observations with stable IDs and consistent metadata.
 
-- Eight atomic current understanding documents.
-- README for current understandings.
-
-## Next
-
-Link these understandings to observations and evidence as the repository grows.
+This begins the transition from repository scaffolding to reusable organisational knowledge.

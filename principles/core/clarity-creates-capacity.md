@@ -3,23 +3,22 @@ title: Clarity Creates Capacity
 status: mature
 confidence: high
 category: core-principle
+related: []
 ---
 
 # Clarity Creates Capacity
 
-## Principle
+Clear priorities, explicit ownership, accessible knowledge, and transparent decision-making unlock capacity that already exists within an organisation.
 
-Most organisations possess more capability than they realise.
+## Implications
+- Reduce ambiguity before adding resources.
+- Simplify before expanding.
+- Make ownership visible.
 
-Clear priorities, explicit ownership, accessible knowledge, and transparent decisions unlock existing capacity before additional resources become necessary.
-
-## Why It Matters
-
-Complexity consumes attention.
-
-Clarity releases it.
+## Evidence
+- To be linked.
 
 ## Related
-
 - ../../worldview/worldview.md
 - ../../methodology/repository-method.md
+

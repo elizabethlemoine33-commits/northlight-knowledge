@@ -11,3 +11,7 @@
 ## Purpose
 
 Establish the foundation for a practical, organisation-first AI adoption library.
+
+## 2026-07-17
+
+- Added Knowledge Review observation: `observations/models-serve-reality.md`.

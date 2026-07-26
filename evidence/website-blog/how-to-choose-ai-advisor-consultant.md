@@ -4,7 +4,7 @@ title: How to Choose an AI Advisor Who Won't Waste Your Time — Northlight Advi
 status: active
 confidence: medium
 created: 2026-07-18
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-25
 category: evidence
 source_type: website-article
 source_file: C:/Users/erand/Desktop/bynorthlight-site/blog/how-to-choose-ai-advisor-consultant.html
@@ -41,12 +41,15 @@ Most AI consultants don't actually use AI. Here's how to find one who does — a
 - What Does Real AI Use Look Like in a Consulting Practice?
 - Where Should You Start When Evaluating AI Advisors?
 
+## Key Claims
+
+- Build vs. use distinction: an advisor who builds AI systems (engineering) and one who uses AI tools in their own practice are different roles — most buyers need the latter and accidentally hire the former
+- The Judy example: a business owner automating four specific manual spreadsheet tasks; this is the right use of an AI advisor, and it is narrower and more specific than most AI advisor pitches
+- Five signals for a good advisor: demonstrates actual AI use in their own work, understands Canadian compliance without prompting, describes a real methodology (not a slide), can provide references with measurable outcomes, offers a pilot before a long engagement
+- Red flags: can't explain PIPEDA in a three-minute conversation, methodology is a marketing slide not a process, promises specific ROI numbers before diagnosis
+
 ## Linked Observations
 
 - [AI advisors should demonstrate operational use](../../knowledge-domains/ai-adoption/observations/ai-advisors-should-demonstrate-operational-use.md)
 - [Stated service categories hide operating needs](../../knowledge-domains/client-advisory/observations/stated-service-categories-hide-operating-needs.md)
 - [Vendor selection should start with problems, not tools](../../knowledge-domains/ai-adoption/observations/vendor-selection-should-start-with-problems-not-tools.md)
-
-## Review Notes
-
-First-pass evidence record generated from the local website blog corpus. Requires deeper human/agent review before being used as mature evidence.

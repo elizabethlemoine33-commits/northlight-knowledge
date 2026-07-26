@@ -4,7 +4,7 @@ title: Fractional COO vs. Hiring a COO: What's Right for a Growing Canadian Busi
 status: active
 confidence: medium
 created: 2026-07-18
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-25
 category: evidence
 source_type: website-article
 source_file: C:/Users/erand/Desktop/bynorthlight-site/blog/fractional-coo-vs-hiring-full-time-canada.html
@@ -45,12 +45,15 @@ Full-time COOs cost C$150K–$220K+ in Canada. Most Atlantic businesses under C$
 - How do I know if my business is big enough for a fractional COO?
 - Can a fractional COO work remotely?
 
+## Key Claims
+
+- Full-time COO in Canada: C$150K–$220K+ in salary; total cost including benefits, overhead, and office space is typically C$300K+ annually
+- Most Atlantic Canadian businesses under C$5M revenue don't have enough operational volume to justify a full-time COO — the role becomes underfilled and expensive simultaneously
+- AI-enabled fractional executives can now execute at team pace, not just advise — the combination of fractional strategic oversight and AI operational tools changes what fractional can deliver
+- The right question is not fractional vs. full-time; it's whether your operational volume justifies full-time headcount and whether you need strategy, execution, or both
+
 ## Linked Observations
 
 - [Fractional leadership fit depends on operational volume](../../knowledge-domains/operations/observations/fractional-leadership-fit-depends-on-operational-volume.md)
 - [Hiring does not remove bottlenecks without structure](../../knowledge-domains/operations/observations/hiring-does-not-remove-bottlenecks-without-structure.md)
 - [Stated service categories hide operating needs](../../knowledge-domains/client-advisory/observations/stated-service-categories-hide-operating-needs.md)
-
-## Review Notes
-
-First-pass evidence record generated from the local website blog corpus. Requires deeper human/agent review before being used as mature evidence.

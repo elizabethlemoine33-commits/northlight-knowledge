@@ -4,7 +4,7 @@ title: Best Fractional Advisory Services for Canadian Small Business Operators (
 status: active
 confidence: medium
 created: 2026-07-18
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-25
 category: evidence
 source_type: website-article
 source_file: C:/Users/erand/Desktop/bynorthlight-site/blog/best-fractional-advisory-services-canada.html
@@ -45,11 +45,14 @@ A practical guide to the best fractional advisory services available to Canadian
 - What should I ask a fractional advisor before hiring?
 - Is a fractional advisor right for my stage of business?
 
+## Key Claims
+
+- Four types of fractional advisory available to Canadian operators: fractional COO (operations), CFO (financial decision-making), CMO (positioning and leads), and general strategic advisory
+- Cost ranges: light fractional $1,500–$5,000/month, deep fractional $5,000–$12,000+/month; fit varies more than price in determining value
+- Canadian market specifics: smaller talent pool than US cities, relationship-based hiring culture, distinct regulatory context (PIPEDA, provincial statutes)
+- Four diagnostic questions before hiring: What specific problem are you solving? What does success look like in 90 days? Do you need advice or execution? Does the volume justify fractional or full-time?
+
 ## Linked Observations
 
 - [Clients need fit, not generic expertise](../../knowledge-domains/client-advisory/observations/clients-need-fit-not-generic-expertise.md)
 - [Fractional leadership fit depends on operational volume](../../knowledge-domains/operations/observations/fractional-leadership-fit-depends-on-operational-volume.md)
-
-## Review Notes
-
-First-pass evidence record generated from the local website blog corpus. Requires deeper human/agent review before being used as mature evidence.

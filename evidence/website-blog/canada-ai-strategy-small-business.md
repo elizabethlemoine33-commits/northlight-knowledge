@@ -4,7 +4,7 @@ title: Canada’s AI Strategy: What Small Businesses Actually Need to Know — N
 status: active
 confidence: medium
 created: 2026-07-18
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-25
 category: evidence
 source_type: website-article
 source_file: C:/Users/erand/Desktop/bynorthlight-site/blog/canada-ai-strategy-small-business.html
@@ -40,11 +40,14 @@ Canada announced a $2.3-billion AI strategy. Most of it doesn’t matter to your
 - What Should Small Business Owners Do About Canada's AI Strategy This Month?
 - How Can Northlight Advisory Services Help?
 
+## Key Claims
+
+- Canada announced $2.3 billion in AI investment; most targets large enterprise and research infrastructure — the one actionable piece for Canadian SMBs is BDC LIFT
+- BDC LIFT was quietly available since April 2026, before the "AI for All" strategy announcement; it provides business loans and advisory specifically for AI adoption
+- Canadian AI trust problem: Canadian customers are more privacy-conscious than US customers — businesses using AI should assume customers will notice and may trust them less, not more
+- Non-adopters can't see how AI applies to their specific business; the abstraction gap (knowing AI exists vs. knowing what it does for your workflow) is the real adoption barrier, not cost or access
+
 ## Linked Observations
 
 - [AI funding only matters when actionable](../../knowledge-domains/ai-adoption/observations/ai-funding-only-matters-when-actionable.md)
 - [Public strategy only matters when translated to next actions](../../knowledge-domains/strategy/observations/public-strategy-only-matters-when-translated-to-next-actions.md)
-
-## Review Notes
-
-First-pass evidence record generated from the local website blog corpus. Requires deeper human/agent review before being used as mature evidence.

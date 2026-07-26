@@ -4,7 +4,7 @@ title: You Hired Them. Now What? When New Hires Don't Clear the Bottleneck — N
 status: active
 confidence: medium
 created: 2026-07-18
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-25
 category: evidence
 source_type: website-article
 source_file: C:/Users/erand/Desktop/bynorthlight-site/blog/you-hired-them-now-what.html
@@ -38,11 +38,15 @@ You made the hire. They're qualified. But you're still doing their work at 11pm.
 - What Actually Fixes It
 - If This Sounds Like Your Week
 
+## Key Claims
+
+- Hiring solves capacity, not structure — the trust, delegation, and execution-handoff problems are separate and must be explicitly built; none of them emerge from adding a qualified person to an unstructured system
+- Three structural failure modes: hired for skills not ownership (new hire defaults to checking with the founder because the structure makes the founder the only decision-maker); solo-era systems don't transfer (organisational knowledge lives in the founder's head, never written down); founder still operating as a solo operator even though the team exists
+- Adding more headcount to a system without clear ownership just adds coordination overhead — more meetings, more handoffs, more Slack channels where the founder is still the one with the answer
+- Fix = clear ownership + explicit decision rights + documented handoffs + processes that don't live in the founder's head; these require explicit construction, not trying harder at the same approach
+- Fractional engagement shape for this problem: someone outside the team builds the missing scaffolding and transfers the capability while doing the stuck work — not a consultant delivering a report, not a coach advising on mindset
+
 ## Linked Observations
 
 - [Capacity requires decision context and ownership](../../knowledge-domains/operations/observations/capacity-requires-decision-context-and-ownership.md)
 - [Hiring does not remove bottlenecks without structure](../../knowledge-domains/operations/observations/hiring-does-not-remove-bottlenecks-without-structure.md)
-
-## Review Notes
-
-First-pass evidence record generated from the local website blog corpus. Requires deeper human/agent review before being used as mature evidence.

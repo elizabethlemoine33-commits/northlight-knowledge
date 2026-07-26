@@ -4,7 +4,7 @@ title: AI for All: Open Programmes for Nova Scotia Businesses — Northlight Adv
 status: active
 confidence: medium
 created: 2026-07-18
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-25
 category: evidence
 source_type: website-article
 source_file: C:/Users/erand/Desktop/bynorthlight-site/blog/ai-for-all-programmes-nova-scotia-businesses.html
@@ -42,11 +42,13 @@ Which AI funding programmes are actually open to Nova Scotia SMEs right now, how
 - How Can Northlight Advisory Services Help Nova Scotia Businesses Apply?
 - What's the First Step for Nova Scotia Businesses Exploring AI Funding?
 
+## Key Claims
+
+- RAII (Regional AI Initiative): $250K–$5M grants for AI development, accessed through ACOA; applications are ongoing and this is the largest available AI funding channel for Atlantic Canadian businesses
+- BDC LIFT: business loans and advisory specifically for AI adoption; one of the most accessible federal programs for SMBs, available since April 2026 before the "AI for All" announcement
+- AI Compute Access Fund: compute credits for AI development projects — now closed to new applications as of this article's publication date
+
 ## Linked Observations
 
 - [AI funding only matters when actionable](../../knowledge-domains/ai-adoption/observations/ai-funding-only-matters-when-actionable.md)
 - [Public strategy only matters when translated to next actions](../../knowledge-domains/strategy/observations/public-strategy-only-matters-when-translated-to-next-actions.md)
-
-## Review Notes
-
-First-pass evidence record generated from the local website blog corpus. Requires deeper human/agent review before being used as mature evidence.

@@ -4,7 +4,7 @@ title: The Real ROI of AI for Canadian SMBs (It's Not Hours Saved)
 status: active
 confidence: medium
 created: 2026-07-18
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-25
 category: evidence
 source_type: website-article
 source_file: C:/Users/erand/Desktop/bynorthlight-site/blog/ai-roi-canadian-smb.html
@@ -44,13 +44,16 @@ Canadian SMBs measuring AI ROI in hours saved are measuring the wrong thing. The
 - Why do so many AI pilots succeed but rollouts stall?
 - What does trust have to do with AI ROI?
 
+## Key Claims
+
+- The right ROI question is: whose time is saved, on what tasks, to do what instead — "hours saved" is not the same as value created; adoption rates go up while ROI stays flat because the output question was never answered
+- Pilots succeed and rollouts stall for different reasons: pilots succeed because scope is controlled; rollouts stall because nobody designed the transition to use freed capacity differently
+- Trust is built at the first failure moment — how an organisation handles the first AI mistake determines whether the team adopts the tool or abandons it; this is the real inflection point in any AI deployment
+- Most Canadian SMB AI mistakes are measurement errors, not tool errors — measuring hours saved instead of the value created with those hours
+
 ## Linked Observations
 
 - [AI ROI depends on redeployment of time](../../knowledge-domains/ai-adoption/observations/ai-roi-depends-on-redeployment-of-time.md)
 - [AI rollouts fail when context is missing](../../knowledge-domains/ai-adoption/observations/ai-rollouts-fail-when-context-is-missing.md)
 - [Context is infrastructure for AI](../../knowledge-domains/knowledge-systems/observations/context-is-infrastructure-for-ai.md)
 - [Trust affects AI rollout adoption](../../knowledge-domains/change-management/observations/trust-affects-ai-rollout-adoption.md)
-
-## Review Notes
-
-First-pass evidence record generated from the local website blog corpus. Requires deeper human/agent review before being used as mature evidence.

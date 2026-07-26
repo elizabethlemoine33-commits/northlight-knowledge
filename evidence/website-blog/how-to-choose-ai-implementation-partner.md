@@ -4,7 +4,7 @@ title: How to Choose an AI Implementation Partner: A Canadian Operator's Guide a
 status: active
 confidence: medium
 created: 2026-07-18
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-25
 category: evidence
 source_type: website-article
 source_file: C:/Users/erand/Desktop/bynorthlight-site/blog/how-to-choose-ai-implementation-partner.html
@@ -45,11 +45,14 @@ A practical guide for Canadian business owners evaluating AI implementation part
 - How do you evaluate AI implementation partners systematically?
 - What are the Canadian-specific considerations that must come up before you sign?
 
+## Key Claims
+
+- Five scoring criteria for vendor evaluation: hands-on AI experience (30%), methodology clarity (25%), Canadian compliance knowledge (20%), communication and fit (15%), cost structure transparency (10%) — rate 1–5 per criterion, multiply by weight, compare totals
+- An implementation without a contained pilot phase almost always produces disappointing results — a partner who proposes going straight from kickoff to full deployment is overconfident or inexperienced; the consequences land on the buyer
+- Canadian-specific due diligence before signing: PIPEDA consent and data handling for personal information, Quebec Law 25 PIA requirement, data residency per tool and jurisdiction, automated decision-making disclosure obligations
+- Score vendors independently with everyone involved in the working relationship before discussing results — surfaces disagreements early and reduces the influence of whoever made the best first impression
+
 ## Linked Observations
 
 - [Stated service categories hide operating needs](../../knowledge-domains/client-advisory/observations/stated-service-categories-hide-operating-needs.md)
 - [Vendor selection should start with problems, not tools](../../knowledge-domains/ai-adoption/observations/vendor-selection-should-start-with-problems-not-tools.md)
-
-## Review Notes
-
-First-pass evidence record generated from the local website blog corpus. Requires deeper human/agent review before being used as mature evidence.

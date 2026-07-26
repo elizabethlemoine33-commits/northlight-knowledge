@@ -41,13 +41,19 @@ This review serves as evidence for developing observations, current understandin
 Source:
 
 - Local website repository: `C:/Users/erand/Desktop/bynorthlight-site/blog`
-- Article files reviewed: 21 HTML files, excluding `index.html`
-- Review date: 2026-07-18
+- Article files reviewed: 26 articles + 2 printable versions, excluding `index.html`
+- First review date: 2026-07-18
+- Updated: 2026-07-25 (added 5 missing articles: fractional-coo-atlantic-canada, what-is-a-fractional-executive-canada, best-ai-tools-canadian-small-businesses-2026, ai-policy-template-canadian-small-business, ai-adoption-checklist-canadian-businesses-2026)
 
-Status: first-pass review complete; deeper article-by-article extraction still needed.
+Status: inventory complete (26 articles, 2 printable versions noted); first-pass extraction complete for all; deeper extraction in progress.
 
 ## Corpus Inventory
 
+- `2026-07-29` - [How to Prepare Your Business for AI Adoption: A Canadian Checklist](../evidence/website-blog/ai-adoption-checklist-canadian-businesses-2026.md) (`ai-adoption-checklist-canadian-businesses-2026.html`)
+- `2026-07-27` - [What Is a Fractional Executive? A Guide for Canadian Businesses](../evidence/website-blog/what-is-a-fractional-executive-canada.md) (`what-is-a-fractional-executive-canada.html`)
+- `2026-07-25` - [Best AI Tools for Canadian Small Businesses (2026)](../evidence/website-blog/best-ai-tools-canadian-small-businesses-2026.md) (`best-ai-tools-canadian-small-businesses-2026.html`)
+- `2026-07-23` - [AI Acceptable Use Policy Template for Canadian Small Business](../evidence/website-blog/ai-policy-template-canadian-small-business.md) (`ai-policy-template-canadian-small-business.html`) — printable version at `ai-policy-template-printable.html`
+- `2026-07-21` - [Fractional COO Services in Atlantic Canada](../evidence/website-blog/fractional-coo-atlantic-canada.md) (`fractional-coo-atlantic-canada.html`)
 - `2026-07-18` - [Your Agents Need a Chain of Command — Northlight](../evidence/website-blog/your-agents-need-a-chain-of-command.md) (`your-agents-need-a-chain-of-command.html`)
 - `2026-07-16` - [Most Resumes Describe the Job. Almost None Describe the Work — Northlight](../evidence/website-blog/resumes-describe-job-not-work-digital-reference.md) (`resumes-describe-job-not-work-digital-reference.html`)
 - `2026-07-11` - [Implementing AI Without Breaking Canadian Privacy Law: A PIPEDA Guide for Business Owners](../evidence/website-blog/pipeda-privacy-first-ai-canada.md) (`pipeda-privacy-first-ai-canada.html`)

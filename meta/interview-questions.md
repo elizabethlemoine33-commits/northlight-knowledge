@@ -42,17 +42,27 @@ These questions exist because the knowledge base distills thinking to an essence
 
 ## On contextual relationships
 
-**"The relationships you expected to last after leaving a context — the ones that have basically fallen apart despite effort — what do you think they were made of? And does that change how you think about what you're building with clients now?"**
+*Note (2026-07-26): This thread developed significantly in conversation. The refined position is captured in OBS-SOC-0008. The short version: not all contextual relationships are the same. Relationships that fall apart when context is removed were built on the institution — the shared employer, the proximity, the project. Relationships that survive are built into the bond itself — shared interests, mutual curiosity about each other's separate lives, the small gestures that don't require a shared workplace to make sense. The context travels because it was never in the institution to begin with. The best-friend example: neighbours once, now far apart, see each other 3-4 times a year, pick up where they left off. The advisory application: learn about the person, their family, their interests — send the occasional message about something silly. When the engagement ends, the context wasn't just the work.*
 
-*Why this matters:* The observation that relationships are contextual — real while in context, hard to sustain after — is more precise than either "belonging matters" or "relationships don't matter." The library has no frame for this yet.
+*The hard interview question below (what happens to the client relationship when the engagement ends) has a preliminary answer: if you've built it right, the context outlasts the engagement by design. But the questions are still worth asking aloud.*
 
-**"The organizational behaviour literature says genuine belonging and authentic workplace relationships are necessary for performance. Your experience seems to be that work relationships are real but contextual — they don't need to be portable to have mattered. What do you think the research is getting wrong, or what is it measuring that you're not experiencing?"**
+---
 
-*Why this matters:* This view diverges from mainstream org psych and deserves a 'why' — not just the position but the reasoning. If the counter-argument is "belonging research measures something different from what I'm describing," that's a defensible and interesting claim. If it's "I've just had different experiences," that's honest but a different kind of evidence. The distinction matters for how confidently the library can hold this.
+**"The relationships you expected to last after leaving a context — the ones that have basically fallen apart despite effort — what do you think they were made of? What was the context, and where was it living?"**
+
+*Why this matters:* The refined observation is that the distinction isn't between portable and non-portable relationships — it's between where the context was built. Some relationships borrow context from the institution; others build it into the bond. The question is designed to surface which ones fell apart and why, and whether there's a pattern.
+
+**"The organizational behaviour literature says genuine belonging and authentic workplace relationships are necessary for performance. Your experience seems to be that work relationships are real but contextual — they don't need to be portable to have mattered, and the ones that do travel were built differently. What do you think the research is getting wrong, or what is it measuring that you're not experiencing?"**
+
+*Why this matters:* This view diverges from mainstream org psych and deserves a 'why' — not just the position but the reasoning. If the counter-argument is "belonging research measures something different from what I'm describing," that's a defensible and interesting claim worth developing.
+
+**"If you deliberately build client relationships to outlast engagements — learning about the person, maintaining non-work contact — is that something you could teach? Could someone else on a team do it the same way, or does it depend on something about how you specifically show up?"**
+
+*Why this matters:* Pulls on whether this is a repeatable practice or a personal style. If it's the latter, it has implications for how Northlight scales advisory work.
 
 **"If you believe work relationships are primarily contextual, what does that mean for clients who are lonely at the top — who present to you as needing a thinking partner as much as an advisor? Are you selling them something that's contextual too, and do you think about what happens to that when the engagement ends?"**
 
-*Why this matters:* Pulls on the advisory model directly. If client relationships are also contextual, the exit question becomes part of the engagement design, not an afterthought.
+*Why this matters:* Even with the refined model, the exit question is still live. If the relationship is designed to outlast the engagement, what does the client think they're getting — and is the relationship the product or the byproduct?
 
 ---
 

@@ -46,6 +46,14 @@ These questions exist because the knowledge base distills thinking to an essence
 
 *Why this matters:* The observation that relationships are contextual — real while in context, hard to sustain after — is more precise than either "belonging matters" or "relationships don't matter." The library has no frame for this yet.
 
+**"The organizational behaviour literature says genuine belonging and authentic workplace relationships are necessary for performance. Your experience seems to be that work relationships are real but contextual — they don't need to be portable to have mattered. What do you think the research is getting wrong, or what is it measuring that you're not experiencing?"**
+
+*Why this matters:* This view diverges from mainstream org psych and deserves a 'why' — not just the position but the reasoning. If the counter-argument is "belonging research measures something different from what I'm describing," that's a defensible and interesting claim. If it's "I've just had different experiences," that's honest but a different kind of evidence. The distinction matters for how confidently the library can hold this.
+
+**"If you believe work relationships are primarily contextual, what does that mean for clients who are lonely at the top — who present to you as needing a thinking partner as much as an advisor? Are you selling them something that's contextual too, and do you think about what happens to that when the engagement ends?"**
+
+*Why this matters:* Pulls on the advisory model directly. If client relationships are also contextual, the exit question becomes part of the engagement design, not an afterthought.
+
 ---
 
 ## On the advisory accumulation tension

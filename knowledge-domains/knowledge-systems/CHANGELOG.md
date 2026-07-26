@@ -13,3 +13,8 @@
 - Added Knowledge Review observations:
   - `observations/field-notes-preserve-current-understanding.md`
   - `observations/learning-requires-selective-retention.md`
+
+## 2026-07-25
+
+- Added website corpus observation batch: `OBS-WEB-0020` through `OBS-WEB-0023`.
+

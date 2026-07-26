@@ -10,3 +10,8 @@
 ## Purpose
 
 Begin organizing knowledge by discipline rather than by document type alone.
+
+## 2026-07-25
+
+- Added website corpus observation batch: `OBS-WEB-0012` through `OBS-WEB-0015`.
+

@@ -7,3 +7,14 @@
 - Initial observations
 - Initial frameworks
 - Core glossary
+
+## 2026-07-17
+
+- Added Knowledge Review observations:
+  - `observations/participation-changes-ownership-of-the-future.md`
+  - `observations/resistance-points-to-missing-information.md`
+
+## 2026-07-25
+
+- Added website corpus observation batch: `OBS-WEB-0027` through `OBS-WEB-0028`.
+

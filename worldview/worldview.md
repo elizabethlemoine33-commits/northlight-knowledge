@@ -36,6 +36,8 @@ They resist change in some areas while embracing it in others.
 
 Every intervention changes the system itself.
 
+The word is system, not organism. Adaptation, resistance, and habit are patterns that emerge from the people inside an organisation, not evidence that the organisation itself has a self that decides things. Held too loosely, "living system" language risks the trap Gareth Morgan warned about in his own foundational work on the metaphor: biological framing can imply a harmony and functional unity that real organisations, full of competing interests and real power, don't have. When a description would cover for a decision that harmed someone, the language should shift back to naming the person who decided — not the system that "responded." (See `principles/core/organisations-are-living-systems.md` for the fuller treatment and evidence.)
+
 ---
 
 # Observation Before Intervention
@@ -187,4 +189,6 @@ Its value lies not in remaining unchanged, but in remaining honest.
 - `values.md`
 - `../principles/current-understandings.md`
 - `../principles/core-principles.md`
+- `../principles/core/organisations-are-living-systems.md`
+- `../evidence/external-research/EVD-EXT-0001-organizations-as-living-systems-research.md`
 - `../methodology/repository-method.md`

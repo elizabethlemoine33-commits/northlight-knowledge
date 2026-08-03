@@ -46,7 +46,7 @@ Most organisations possess greater capability than they realise.
 
 Clear priorities, defined ownership, accessible knowledge, and transparent decision-making often unlock existing capacity more effectively than adding resources.
 
-Clarity is a multiplier.
+Clarity is a multiplier — for problems that are actually knowable through analysis. Before applying clarity work, check whether the problem is complicated (cause and effect knowable in advance, clarity is the right move) or genuinely complex (cause and effect knowable only in retrospect, clarity should follow small experiments, not precede them). Clarity imposed on a complex problem too early can manufacture false confidence instead of real capacity. See `../evidence/external-research/EVD-EXT-0002-clarity-creates-capacity-research.md` and `../knowledge-domains/strategy/observations/premature-clarity-can-misdiagnose-a-complex-problem.md`.
 
 ---
 

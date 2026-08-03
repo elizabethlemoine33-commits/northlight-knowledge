@@ -31,10 +31,6 @@ This maps to Cynefin's Chaotic domain (act — sense — respond, requiring cent
 
 There's a related misuse pattern worth flagging alongside this: some leaders declare "chaos" or "emergency" when a situation is actually only complex, or even just complicated, because Chaotic is the one Cynefin domain that justifies skipping consultation and grabbing centralized authority. Real Chaotic-domain competence (as described above) is recognizable by what happens *after* — a clean handoff, a genuine "what just happened" debrief, and de-escalation to Complex or Complicated once the immediate danger passes. Manufactured urgency doesn't hand off; it stays in command mode past the point the actual emergency ended.
 
-## Content potential
-
-Strong candidate for a future blog post or LinkedIn piece — has real, specific stories behind it (workplace injury response, fall, fire) rather than an abstract claim, and it's evidence-backed in the literature (Cynefin, Uhl-Bien) rather than motivational-poster material. Bare-bone-lesson framing only if published; no naming of specific workplaces, colleagues, or identifying incident details, per standard writing rules.
-
 ## Potential Links
 
 - `evidence/external-research/EVD-EXT-0002-clarity-creates-capacity-research.md` (Cynefin background)

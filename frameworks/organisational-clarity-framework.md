@@ -29,6 +29,8 @@ The internal research language (Cynefin, complicated vs. complex) doesn't belong
 
 One-line version, if there's only room for one question: *"Do we already know the answer here, or do we need to try something small and see what happens?"* Known answer → run the framework. Don't know yet → probe before clarifying.
 
+**If the initial read turns out to be wrong, reclassify and adjust — this is expected, not failure.** Starting in the wrong lane and noticing is part of the method. The domain check gets you to a starting line; observation during the engagement tells you whether you read the terrain correctly.
+
 ## Sequence
 1. Clarify outcomes.
 2. Clarify ownership.

@@ -36,6 +36,16 @@ Parallel to systems thinking: systems must outlast their designers (context buil
 
 ---
 
+## On Stacey and corporate personhood
+
+Stacey's theoretical argument — there is no "organization" behind the conversations, only patterns of people relating — connects to something larger than organizational theory. When corporations were granted legal personhood and the rights that came with it, the theoretical confusion became legally institutionalized. "The organization decided" stopped being a convenient shorthand and became a claim that could be made in a courtroom, by a lawyer, on behalf of a non-person. Which is exactly how Bob and Bill get to disappear.
+
+This is not Stacey's own argument — he was working in organizational theory, not political economy or corporate law. But the logical extension holds: if the entity is a fiction useful for analysis, and we then treat that fiction as having legal standing equivalent to or exceeding the people inside it, we have taken a theoretical convenience and weaponized it against accountability. The "shared-purpose language can mask a power decision" observation is this at organizational scale; corporate personhood is this at societal scale.
+
+*Confidence: this is an extension of Stacey's point, not his own claim. Medium confidence — needs more reading on corporate personhood history and whether Stacey or anyone in the complexity tradition has made this connection explicitly. Worth a proper interview question before promoting to an observation.*
+
+---
+
 ## What still needs revisiting
 
 - Whether the Maslow/work question lands differently for founders vs. employees

@@ -58,6 +58,17 @@ They direct future research, shape client engagements, and reveal gaps in our cu
 
 ---
 
+## Operating Systems & Prioritisation
+
+- What conditions make an operating methodology (EOS, OKRs, etc.) likely to succeed or fail?
+- At what point does an organisation have sufficient strategic clarity to introduce a priority-setting framework?
+- What distinguishes organisations that can tell the truth about missed priorities from those that cannot?
+- How should parking-lot items be reviewed — what triggers promotion, deferral, or deletion?
+- What is the right number of active priorities for teams of different sizes and operating contexts?
+- Can methodology help build trust, or does trust have to precede the methodology?
+
+---
+
 # Using This Document
 
 Questions may be:

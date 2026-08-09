@@ -1,8 +1,8 @@
 ---
 type: framework-map
-title: "Operations Built for Growth — Conceptual Framework Map v0.2"
+title: "Operations Built for Growth — Conceptual Framework Map v0.3"
 status: draft
-version: "0.2"
+version: "0.3"
 date: 2026-08-09
 tags:
   - framework
@@ -18,9 +18,9 @@ sources:
   - "working-concepts.md"
 ---
 
-# Operations Built for Growth — Conceptual Framework Map v0.2
+# Operations Built for Growth — Conceptual Framework Map v0.3
 
-**Status: Draft. This is a synthesis for review, not ratified Northlight doctrine.**
+**Status: Draft. Research pass completed 2026-08-09. Not ratified Northlight doctrine.**
 
 ## 1. Central thesis
 
@@ -168,18 +168,17 @@ Successes, failures, client feedback, operational friction, and unexpected event
 
 These are not steps. They are conditions that make the spiral work. Curiosity and humility belong together: curiosity asks the question; humility admits that we do not already know the answer.
 
-- curiosity + humility;
+- curiosity + intellectual humility (research label: *learning orientation*; Dweck);
 - trust;
 - clarity;
-- accountability;
-- psychological safety;
+- psychological safety **and** accountability — both are required co-conditions. High psychological safety without accountability produces a comfort zone, not a learning zone. High accountability without psychological safety produces an anxiety zone where problems get hidden. The learning zone (Edmondson, 1999, 2018) requires both simultaneously.
 - appropriate risk-taking;
 - willingness to innovate;
 - willingness to ask for help;
 - willingness to say "I don't know";
 - willingness to challenge an assumption.
 
-A practitioner observation from the interview is that the operating leader's own posture can influence the organization's posture. This is retained as an observation requiring research validation, not as established doctrine.
+A practitioner observation from the interview is that the operating leader's own posture influences the organization's posture — and that this relationship is bidirectional. Research on emotional contagion (Hatfield, Cacioppo & Rapson, 1993) and group affective tone (George, 1995) supports the directional claim that leaders' emotional states transfer to teams. The bidirectionality — that a leader who genuinely pays attention to and cares for their team will also be affected by the team's state — is retained as an important feature of the model, not a complication. Leadership is a relationship, not a one-way broadcast. This is an observation with research support, not yet established doctrine at the specific COO level.
 
 ---
 
@@ -218,7 +217,7 @@ The COO needs enough understanding to:
 - know when to involve the expert;
 - and help the organization act on what it learns.
 
-A strong COO also uses a Socratic style of inquiry: asking questions from different angles that help the subject-matter expert surface what is missing, rather than rushing to provide the answer. The COO may guide someone toward a conclusion, but the aim is often to help them see and articulate it themselves. Elizabeth recognizes this pattern in the way Paul Donovan taught and coached people.
+A strong COO also uses an inquiry-based operating style: asking questions from different angles that help the subject-matter expert surface what is missing, rather than rushing to provide the answer. The COO may guide someone toward a conclusion, but the aim is often to help them see and articulate it themselves. Elizabeth recognizes this pattern in the way Paul Donovan taught and coached people. The closest named framework for this practice is Edgar Schein's *humble inquiry* (2013) — asking questions you genuinely do not know the answer to, as distinct from questions designed to steer toward a predetermined conclusion. This is not the historical Socratic method, which was structured around exposing internal contradictions and often ended in deliberate confusion; what is described here is oriented toward helping, not unsettling.
 
 The COO is often a chameleon: executor, integrator, moderator, enforcer, devil's advocate, mentor, counterpart, or second-in-command depending on what the CEO and organization need. Elizabeth uses "chameleon" to describe this adaptive quality; the idea is also explicitly associated with Cameron Herold's description of the COO as a role that changes with the needs of the CEO and organization. See *Second in Command: Unleash the Power of Your COO* (2023).
 
@@ -241,7 +240,7 @@ Marketing can tell the organization:
 
 That information affects strategy, sales, delivery, finance, capacity, product/service design, and client experience.
 
-Marketing therefore belongs in the operating rhythm without becoming everyone's job in the sense of everyone doing marketing.
+Marketing therefore belongs in the operating rhythm without becoming everyone's job in the sense of everyone doing marketing. Market orientation research (Kohli & Jaworski, 1990; Narver & Slater, 1990) establishes at the firm level that systematic gathering and response to market intelligence is associated with better performance. The specific argument here — that this intelligence should be embedded in the operating rhythm rather than held inside the marketing function — extends that research as a working theory. It is a practitioner hypothesis with a coherent evidence basis, not a directly validated research finding.
 
 ---
 
@@ -278,19 +277,24 @@ The Socratic framing is a practitioner interpretation: Elizabeth describes Paul 
 
 ## 11. Evidence and research boundary
 
-This framework is grounded first in Elizabeth Lemoine's practitioner experience and observations. It is not yet presented as a literature-derived organizational theory.
+This framework is grounded first in Elizabeth Lemoine's practitioner experience and observations. A research pass was conducted on 2026-08-09 against the ten priority questions in `research-agenda-v0.1.md`. The following summarizes the research status of each major claim.
 
-Claims that should be researched before being generalized include:
+**Well-supported by existing research:**
+- Leader posture influences team climate (emotional contagion, group affective tone) — bidirectional; research supports both directions.
+- Psychological safety enables learning behaviour and error reporting (Edmondson, 1999, 2018) — requires accountability as a co-condition; neither alone is sufficient.
+- Intellectual humility and learning orientation are associated with better leadership outcomes (Owens et al., 2013; Dweck).
+- Adaptive capacity is distinct from scalability and matters more in changing environments (Teece et al., 1997; dynamic capabilities theory).
+- Broken cross-functional information flow is a documented source of operational failure — the design goal is quality and accessibility of information, not volume.
+- Organizational learning requires double-loop capacity (Argyris & Schön, 1978); defensive routines actively prevent it; deliberate conditions are required.
+- Trust and structural verification coexist and reinforce each other; surveillance corrodes trust but systematic performance monitoring does not (Sitkin & Bies, 1994; Das & Teng, 1998).
+- Market orientation at the firm level is strongly associated with performance (Kohli & Jaworski, 1990; Narver & Slater, 1990).
 
-- the relationship between operating-leader emotional state and organizational climate;
-- psychological safety and operational performance;
-- trust and verification in organizational systems;
-- organizational resilience and adaptive capacity;
-- market orientation and operational effectiveness;
-- cross-functional information flow and growth;
-- organizational learning and continuous improvement;
-- customer concentration as an operating-system diagnostic;
-- Socratic questioning as a leadership and sense-making practice;
-- whether curiosity and humility in senior operators contribute to psychological safety, learning, or cross-functional problem solving.
+**Supported in direction, with label or framing adjustments made:**
+- The inquiry-based operating style is well-researched under *humble inquiry* (Schein, 2013) and coaching methodology — not as the historical Socratic method.
+- Curiosity as a trait is validated as *dispositional curiosity* (Kashdan, 2009) and maps to *learning orientation*. The practitioner term is retained alongside the research label.
 
-The research layer should validate, nuance, or challenge the practitioner model rather than merely confirm it.
+**Practitioner working theories — logical extensions of established research, presented as hypotheses:**
+- Market intelligence embedded in the operating rhythm (extends market orientation research).
+- Customer concentration as a prompt for cross-functional diagnostic review (extends established financial concentration risk frameworks).
+
+The research layer should validate, nuance, or challenge the practitioner model rather than merely confirm it. Where the framework extends beyond established research, it says so explicitly.

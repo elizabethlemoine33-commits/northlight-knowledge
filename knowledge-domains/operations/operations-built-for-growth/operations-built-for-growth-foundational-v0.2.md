@@ -2,7 +2,7 @@
 type: foundational-concept
 title: "Operations Built for Growth"
 status: draft
-version: "0.2"
+version: "0.3"
 date: 2026-08-09
 tags:
   - operations
@@ -53,6 +53,8 @@ That changes as the organization grows.
 
 At seventy-five people, nobody can read every message. People no longer automatically know what another department is doing. Information needs intentional pathways. Cross-functional communication has to be designed rather than assumed.
 
+This does not mean everyone needs to know everything. That would create information overload, not operational clarity. The goal is not to increase information volume — it is to ensure that people know *where to get* the information they need, when they need it. A single source of truth for each type of information is more useful than everyone being copied on everything. Not everyone needs to see cash flow detail. But everyone should be able to find out whether the organization is financially healthy — and where to look if they want more. That is a trust-building design, not a surveillance design.
+
 But building for growth does not mean blindly building for "10×."
 
 I have little patience for the idea that a system is growth-ready simply because someone says it can handle ten times the volume. What actually changes at ten times? What breaks? Where do bottlenecks move? What happens to information flow, decision rights, quality, cash flow, staffing, client experience, and risk? Does the organization itself need to become different?
@@ -75,9 +77,9 @@ Sometimes that means saying, "Explain it to me like I'm five." That is not a fai
 
 The COO is a generalist integrator. Depending on the organization and the CEO, that can mean being an executor, moderator, enforcer, devil's advocate, mentor, counterpart, or second-in-command. The role changes because the organization changes. Cameron Herold's *Second in Command: Unleash the Power of Your COO* (2023) is an important influence on this view of the COO as a role that changes with the needs of the CEO and organization. I use "chameleon" to describe that adaptive quality; I am not trying to reproduce Herold's taxonomy here.
 
-The COO also needs humility. Curiosity is not much use if you are too proud to admit that you do not understand something. A COO should be able to say, "Explain it to me like I'm five," and genuinely listen to the answer. That is not a failure of expertise. It is part of the job.
+The COO also needs humility — what the research literature calls *intellectual humility*: calibrating your confidence to your actual evidence, staying open to updating your model when reality contradicts it. Curiosity and intellectual humility work together. Curiosity generates the questions; humility makes it possible to hear the answers honestly. Research on *learning orientation* (Dweck) frames this as a stable disposition toward growth and improvement rather than toward proving what you already know. These are not the same thing as being uncertain or indecisive. A curious, humble COO is often the most determined person in the room — but determined to understand, not to be right. A COO should be able to say, "Explain it to me like I'm five," and genuinely listen to the answer. That is not a failure of expertise. It is part of the job.
 
-I also think there is something distinctly Socratic about good operating leadership. The best operators I have worked with often ask questions from different angles until the person closest to the work can see what is missing or arrive at the answer themselves. Paul Donovan used to teach and coach this way. The point was not simply to give people the answer; it was to help them learn how to reason through the problem.
+I also think there is something I would describe as *humble inquiry* about good operating leadership — a term drawn from Edgar Schein's 2013 work, which describes the practice of asking questions you genuinely do not know the answer to, rather than asking questions designed to steer toward a conclusion you have already reached. The best operators I have worked with often ask questions from different angles until the person closest to the work can see what is missing or arrive at the answer themselves. Paul Donovan used to teach and coach this way. The point was not simply to give people the answer; it was to help them learn how to reason through the problem. This is closer to an inquiry-based operating style or coaching methodology than to the historical Socratic method, which was structured to expose contradiction and often ended in deliberate confusion. What I am describing is not designed to unsettle people; it is designed to help them think.
 
 The COO's value is often in the seams between functions: noticing that sales promised something delivery cannot provide, that finance is waiting for information nobody knows it needs, that marketing is generating demand the organization cannot fulfill, or that a database problem is quietly damaging client relationships.
 
@@ -101,7 +103,7 @@ It also means understanding that marketing creates expectations for the rest of 
 
 Marketing cannot promise next-day delivery if sales and operations cannot deliver it. Marketing cannot offer a price finance cannot support. Marketing cannot create demand without considering whether the organization has the capacity to serve it.
 
-Marketing belongs in the operating rhythm because the organization is one system.
+Marketing belongs in the operating rhythm because the organization is one system. Market orientation research (Kohli & Jaworski, 1990; Narver & Slater, 1990) has established at the firm level that organizations which systematically gather and respond to market intelligence consistently outperform those that do not. The specific argument that this intelligence should be embedded in the operating rhythm — not merely held inside the marketing department — is a working theory that extends this research. It is a logical extension, and one I believe to be true, but I am presenting it as a practitioner hypothesis rather than a directly validated finding.
 
 ## Customer concentration is an operational problem, too
 
@@ -113,7 +115,7 @@ What do those customers love? Would they recommend us? What did we do right? Wha
 
 Then look at the entire journey. How do people discover the organization? What happens when they show interest? How do they connect? How are their needs understood? How are they matched to the offer? Where do prospects disappear? Is the constraint marketing, positioning, sales, intake, delivery capacity, staffing, or something else?
 
-A small customer base can therefore reveal something much larger about the operating system.
+A small customer base can therefore reveal something much larger about the operating system. The financial concentration risk is well-established in finance and credit analysis. Using customer concentration as a prompt for this kind of cross-functional diagnostic review is a practitioner-derived extension of that concept — a working theory based on experience rather than a directly validated framework in the research literature. I am presenting it as such.
 
 ## Every promise needs a path to delivery
 
@@ -161,6 +163,10 @@ The operational response should therefore be more than fixing the immediate prob
 
 That is why retrospectives matter. What did we say we would do? What did we deliver? Were there gaps? What worked? What did not? What did we learn? What did the client experience? What changes now?
 
+The organizational learning research (Argyris & Schön, 1978) distinguishes between *single-loop learning* — fixing the error within the existing rules — and *double-loop learning* — questioning the rules themselves. Closing the ticket is single-loop. Asking what allowed the problem to happen and redesigning the system is double-loop. The spiral I am describing requires double-loop capacity.
+
+Argyris also found that double-loop learning is genuinely difficult to sustain, especially in organizations where smart, senior people have strong professional identities tied to being right. Defensive routines — the ways people protect themselves and their positions — actively work against the kind of honest diagnosis that double-loop learning requires. I am not describing something that happens automatically. It requires deliberate conditions: enough psychological safety to surface the real problem, and enough accountability to actually change something as a result.
+
 The same principle applies to major incidents. When an online event was disrupted by abusive behaviour, the problem was not simply to remove the person. We also had to understand why the response took too long, improve access to the necessary controls, communicate what had changed, and own the experience with the people affected.
 
 Handled well, accountability can strengthen trust rather than destroy it.
@@ -195,11 +201,13 @@ If operations is working well, I would want people to say:
 
 I would want people to feel that ideation and innovation are good things. That it is safe to bring the right people together, even when they are outside your department. That you do not have to be in every conversation to know what matters because the organization has enough visibility built into its systems.
 
-And when something goes wrong, people should know that accountability is real but learning is also real.
+And when something goes wrong, people should know that accountability is real but learning is also real. These two things are not opposites. Edmondson's research on psychological safety (1999, 2018) is clear on this: the highest-performing teams are not the ones where mistakes are consequence-free. They are the ones where it is safe to surface mistakes *and* where people are expected to do something about them. High psychological safety without accountability becomes a comfort zone. High accountability without psychological safety becomes an anxiety zone where problems get hidden. The learning zone requires both — and that combination has to be modelled by whoever is leading the operating environment.
 
 That is where **trust and verify** matters. The goal is neither micromanagement nor blind trust. It is confidence that the system and the people within it are doing what they should, with enough visibility to verify what matters.
 
-I have also seen how much the human condition of the operating environment matters. One of my former leaders told me that when I was frustrated, nervous, or risk-averse, the team tended to become those things too; when I was confident, empowered, and forward-thinking, those qualities spread as well. I treat that as an important practitioner observation rather than a universal claim. It is something worth researching.
+I have also seen how much the human condition of the operating environment matters. One of my former leaders told me that when I was frustrated, nervous, or risk-averse, the team tended to become those things too; when I was confident, empowered, and forward-thinking, those qualities spread as well. Research on emotional contagion (Hatfield, Cacioppo & Rapson, 1993) and group affective tone (George, 1995) supports this directionally — leaders' emotional states do transfer to teams through mimicry and behavioral cues, and this affects cooperation and performance.
+
+But the relationship is bidirectional. A leader who is genuinely paying attention to their team will also be affected by the team's state. This is not a complication that breaks the observation — I think it actually strengthens it. Leadership is a real relationship, not a hierarchy of emotional influence. A leader who notices when their team is demoralized, anxious, or disengaged, and who responds to that rather than ignoring it, is doing something more important than projecting confidence from above. They are in relationship with the people they lead. That responsiveness — being moved by what moves your team — is part of what it means to pay attention. I treat that as an important practitioner observation that the research supports, rather than a universal claim.
 
 But the practical lesson is clear to me: operations is not only process. It is also the conditions in which people make decisions, ask questions, take appropriate risks, learn, and work together.
 
@@ -227,6 +235,12 @@ Build an organization capable of becoming different without losing its ability t
 ## Sources and influences
 
 - Cameron Herold, *Second in Command: Unleash the Power of Your COO* (2023). Used as an acknowledged influence on the discussion of the COO as a role that changes according to organizational and CEO needs, including the "chameleon" idea.
+- Edgar Schein, *Humble Inquiry: The Gentle Art of Asking Instead of Telling* (2013). Source for the humble inquiry framing used to describe an inquiry-based operating style.
+- Amy Edmondson, "Psychological Safety and Learning Behavior in Work Teams" (1999); *The Fearless Organization* (2018). Source for the psychological safety + accountability co-condition framing and the learning zone model.
+- Argyris & Schön, *Organizational Learning* (1978). Source for single-loop vs. double-loop learning distinction.
+- Hatfield, Cacioppo & Rapson, *Emotional Contagion* (1993); George, "Leader Positive Mood and Group Performance" (1995). Research basis for the leader posture / team climate observation.
+- Kohli & Jaworski (1990); Narver & Slater (1990). Foundational market orientation research underpinning the marketing-in-the-operating-rhythm argument.
+- Teece, Pisano & Shuen, "Dynamic Capabilities and Strategic Management" (1997). Research basis for the adaptive capacity / scalability distinction.
 - Elizabeth Lemoine, 2026-08-08 practitioner interview and examples preserved in `interview-kernels.md` and `examples.md`.
 
-The discussion of Socratic questioning is an interpretation of Elizabeth's experience of Paul Donovan's teaching and coaching style. It is not presented as a verified claim about his formal use of the Socratic method.
+The inquiry-based operating style described here — asking questions from different angles to help subject-matter experts reason toward their own conclusions — is an interpretation of Elizabeth's experience of Paul Donovan's teaching and coaching style. It is not presented as a verified claim about his formal method.

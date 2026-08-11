@@ -18,6 +18,9 @@ relationships:
   - systems-extend-the-operator.md
   - capacity-requires-decision-context-and-ownership.md
   - systems-must-outlast-their-designers.md
+  - ../../../evidence/linkedin-posts/EVD-SOC-0001-clarity-as-design-principle.md
+  - ../../../worldview/worldview.md
+  - ../../../frameworks/organisational-clarity-framework.md
 ---
 
 # System Design: Progressive Complexity

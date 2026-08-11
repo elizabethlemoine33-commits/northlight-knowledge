@@ -20,6 +20,8 @@ relationships:
   - ../../knowledge-domains/strategy/observations/strategy-needs-operating-cadence.md
   - ../../knowledge-domains/operations/observations/capacity-requires-decision-context-and-ownership.md
   - ../../knowledge-domains/change-management/observations/resistance-points-to-missing-information.md
+  - ../../knowledge-domains/operations/observations/system-design-progressive-complexity.md
+  - ../../knowledge-domains/change-management/observations/clarity-increases-accountability-which-can-feel-like-threat.md
 source_posts:
   - 2025-12-15
   - 2025-12-31
